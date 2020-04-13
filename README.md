@@ -37,4 +37,4 @@ If you have done everything right, you are good to go.
 
 ![SS](img/ss2.png)
 
-Made with :heart: by [lifeoflikhon]("https://facebook.com/lifeoflikhon")
+Made with :heart: by [lifeoflikhon](https://facebook.com/lifeoflikhon)
